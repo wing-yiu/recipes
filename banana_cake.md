@@ -13,9 +13,9 @@
 1. Preheat oven to 150 deg celsius
 2. Melt butter in microwave, approx 30 secs. Make sure to **microwave intermittently on low heat and cover the container** to avoid the cold butter from exploding in the microwave.
 3. Whisk eggs, sugar and melted butter together evenly
-3. Add mashed bananas to mixture, whisk evenly
-4. Add plain flour, baking soda, and baking powder to mixture, whisk evenly
-5. Transfer into loaf tin and bake in 150 deg celsius for 25-30 minutes. The cake is ready if you insert a skewer into the center of the cake and it comes out clean.
+4. Add mashed bananas to mixture, whisk evenly
+5. Add plain flour, baking soda, and baking powder to mixture, whisk evenly
+6. Transfer into loaf tin and bake in 150 deg celsius for 25-30 minutes. The cake is ready if you insert a skewer into the center of the cake and it comes out clean.
 
 ## Additional tips
 - Use room temperature eggs to achieve a fluffier texture
