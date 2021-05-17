@@ -5,9 +5,9 @@
 2 eggs (125g)  
 50g sugar  
 100g butter, melted  
-90g plain flour  / cake flour
-1/2 tsp baking soda
-1/2 tsp baking powder
+90g plain flour  / cake flour  
+1/2 tsp baking soda  
+1/2 tsp baking powder  
 
 ## Steps
 1. Preheat oven to 150 deg celsius
