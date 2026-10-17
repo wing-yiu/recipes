@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
+  <title id="title">Rosemary and tomato focaccia</title>
+  <desc id="desc">An illustrated golden focaccia in a baking pan, finished with rosemary, olives, and tomatoes.</desc>
+  <defs>
+    <linearGradient id="table" x2="1" y2="1"><stop stop-color="#eee9db"/><stop offset="1" stop-color="#d7ddcb"/></linearGradient>
+    <linearGradient id="crust" x2=".1" y2="1"><stop stop-color="#a95f32"/><stop offset=".38" stop-color="#d58a48"/><stop offset="1" stop-color="#8e4d2b"/></linearGradient>
+    <linearGradient id="bread" x2=".8" y2="1"><stop stop-color="#f5ce7b"/><stop offset=".52" stop-color="#eeb467"/><stop offset="1" stop-color="#d98a49"/></linearGradient>
+    <filter id="shadow" x="-.2" y="-.2" width="1.4" height="1.5"><feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#394b3d" flood-opacity=".22"/></filter>
+  </defs>
+  <rect width="900" height="640" fill="url(#table)"/>
+  <path d="M0 480C170 435 288 513 450 482s286-56 450-4v162H0Z" fill="#dce1d2" opacity=".55"/>
+  <g transform="rotate(-5 450 320)" filter="url(#shadow)">
+    <rect x="118" y="92" width="664" height="454" rx="66" fill="#d1d4c6"/>
+    <rect x="135" y="106" width="630" height="423" rx="53" fill="url(#crust)"/>
+    <rect x="153" y="121" width="595" height="385" rx="43" fill="url(#bread)"/>
+    <path d="M190 228c46-33 80 32 130 2s60-39 110-2 71 27 117-6 83-15 159 12M182 400c53-24 82 28 128 8s73-48 122-16 79 24 120-8 77-17 147 15" fill="none" stroke="#ffe3a1" stroke-width="14" opacity=".44" stroke-linecap="round"/>
+    <g fill="#f8e3ab" opacity=".9">
+      <ellipse cx="230" cy="171" rx="20" ry="12"/><ellipse cx="359" cy="186" rx="15" ry="10"/><ellipse cx="507" cy="163" rx="21" ry="13"/><ellipse cx="670" cy="195" rx="18" ry="12"/>
+      <ellipse cx="288" cy="302" rx="18" ry="12"/><ellipse cx="440" cy="278" rx="20" ry="13"/><ellipse cx="604" cy="317" rx="17" ry="11"/>
+      <ellipse cx="211" cy="438" rx="18" ry="12"/><ellipse cx="367" cy="430" rx="22" ry="14"/><ellipse cx="543" cy="449" rx="19" ry="12"/><ellipse cx="680" cy="410" rx="18" ry="12"/>
+    </g>
+    <g fill="#a94832" stroke="#f0a75e" stroke-width="7">
+      <circle cx="276" cy="220" r="25"/><circle cx="555" cy="235" r="24"/><circle cx="385" cy="352" r="25"/><circle cx="648" cy="360" r="23"/><circle cx="235" cy="363" r="22"/>
+    </g>
+    <g fill="#304f3c" stroke="#557252" stroke-width="3">
+      <ellipse cx="332" cy="233" rx="8" ry="20" transform="rotate(-48 332 233)"/><ellipse cx="353" cy="216" rx="8" ry="18" transform="rotate(34 353 216)"/>
+      <ellipse cx="465" cy="220" rx="8" ry="21" transform="rotate(51 465 220)"/><ellipse cx="480" cy="242" rx="8" ry="18" transform="rotate(-34 480 242)"/>
+      <ellipse cx="491" cy="375" rx="8" ry="20" transform="rotate(-45 491 375)"/><ellipse cx="512" cy="358" rx="8" ry="18" transform="rotate(34 512 358)"/>
+      <ellipse cx="588" cy="415" rx="8" ry="19" transform="rotate(49 588 415)"/><ellipse cx="611" cy="397" rx="8" ry="18" transform="rotate(-35 611 397)"/>
+      <ellipse cx="300" cy="421" rx="8" ry="18" transform="rotate(-42 300 421)"/><ellipse cx="319" cy="402" rx="8" ry="17" transform="rotate(38 319 402)"/>
+    </g>
+    <g fill="#394f37"><ellipse cx="430" cy="178" rx="14" ry="9"/><ellipse cx="701" cy="276" rx="14" ry="9"/><ellipse cx="177" cy="281" rx="13" ry="9"/></g>
+  </g>
+  <circle cx="776" cy="104" r="27" fill="#e8b590" opacity=".75"/><path d="M774 89v30m-15-15h30m-26-11 22 22m0-22-22 22" stroke="#fff7e8" stroke-width="2" opacity=".9"/>
+</svg>

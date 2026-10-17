@@ -17,6 +17,6 @@ This is a plain static site; it does not need a build step or dependencies.
 
 ## Editing recipes
 
-The Markdown files (`banana_cake.md`, `burnt_cheesecake.md`, and `pandan_cake.md`) remain the original recipe notes. The site content is in [`recipes.js`](./recipes.js); update the matching recipe there when changing a recipe so the web version stays in sync. Add image files under `images/` and point the recipe's `image` or step image to the relative path.
+The Markdown files (`banana_cake.md`, `burnt_cheesecake.md`, `pandan_cake.md`, and `sourdough_focaccia.md`) are the recipe notes. The site content is in [`recipes.js`](./recipes.js); update the matching recipe there when changing a recipe so the web version stays in sync. Add image files under `images/` and point the recipe's `image` or step image to the relative path.
 
 The pages are built from `index.html`, `recipe.html`, `styles.css`, and `app.js`. Recipe links use a query string, which works directly on GitHub Pages without server configuration.
