@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">Tomato pork rib soup with Chinese yam</title>
+  <desc id="desc">A warm bowl of tomato soup with pork ribs and slices of Chinese yam.</desc>
+  <rect width="800" height="600" fill="#f3eee5"/>
+  <ellipse cx="400" cy="440" rx="255" ry="50" fill="#d8c9b5"/>
+  <path d="M170 270h460l-38 160c-10 42-47 70-91 70H299c-44 0-81-28-91-70z" fill="#fffaf2" stroke="#6d463d" stroke-width="12"/>
+  <ellipse cx="400" cy="270" rx="230" ry="78" fill="#a94435" stroke="#6d463d" stroke-width="12"/>
+  <ellipse cx="400" cy="270" rx="199" ry="52" fill="#d96e45"/>
+  <path d="M295 265c0-22 20-37 42-30l31 11 22 35-20 27-48-5c-17-2-27-19-27-38zM445 235c13-17 37-18 50-3l28 31-11 31-43 6-31-26c-13-11-5-27 7-39z" fill="#b87961" stroke="#693d35" stroke-width="9"/>
+  <circle cx="343" cy="251" r="12" fill="#f8cf83"/><circle cx="467" cy="283" r="11" fill="#f8cf83"/><circle cx="405" cy="226" r="10" fill="#f8cf83"/>
+  <path d="M274 292c15-16 35-16 51 0s36 16 52 0M431 300c15-16 35-16 51 0s36 16 52 0" fill="none" stroke="#efe4d0" stroke-width="18" stroke-linecap="round"/>
+  <path d="M366 190c-17-32 17-38 5-67M423 190c-17-32 17-38 5-67" fill="none" stroke="#b99d7b" stroke-width="9" stroke-linecap="round" opacity=".7"/>
+</svg>

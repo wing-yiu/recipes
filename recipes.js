@@ -71,5 +71,20 @@ window.recipes = [
     ],
     tips: ['The rise times are guides; follow the dough. It should double during the first rise and look puffy and fill the pan after the final proof.', 'Use a generous, even coating of olive oil in the pan for a crisp, golden base.', 'After the final proof, the covered pan can wait in the fridge for up to 12 hours before topping and baking.', 'For other toppings, try olives, sun-dried tomatoes, or fresh herbs.'],
     references: [{ label: 'Watch: The BEST Sourdough Focaccia Tutorial — Grant Bakes', url: 'https://youtu.be/Yn07jD7q4a0' }, { label: 'Grant Bakes written recipe', url: 'https://grantbakes.com/easy-sourdough-focaccia/' }]
+  },
+  {
+    id: 'tomato-pork-rib-soup', title: 'Tomato Pork Rib Soup with Chinese Yam', shortTitle: 'Tomato Pork Rib Soup', category: 'soup', tag: 'Bright & savoury', number: '05',
+    description: 'A comforting, tangy tomato broth with tender pork ribs and soft Chinese yam.', yieldLine: 'Serves 3–4',
+    image: 'images/tomato-pork-rib-soup.svg', imageAlt: 'Illustration of tomato pork rib soup with Chinese yam', imagePosition: 'center center',
+    ingredients: ['500g pork ribs', '4 tomatoes', '200g Chinese yam (shan yao)', '2 slices fresh ginger', '1 tsp tomato ketchup or tomato sauce', 'A little cooking oil', 'Salt, to taste', 'Boiling water, as needed'],
+    steps: [
+      { text: 'Score a shallow cross on the bottom of each tomato. Briefly blanch in boiling water, then peel and cut into chunks.' },
+      { text: 'Bring a pot of water to a boil. Add the pork ribs and blanch until the blood and impurities have cooked out. Drain and rinse the ribs.' },
+      { text: 'Heat a little oil in a heavy pot or clay pot. Add the tomatoes and cook, stirring, until they soften and turn pulpy. Stir in the tomato sauce until the colour is bright.' },
+      { text: 'Add the ribs, ginger, and enough boiling water to cover. Bring to a boil and skim the surface, then cover and simmer gently for 30 minutes.' },
+      { text: 'Peel and cut the Chinese yam into chunks. Add it to the soup, season with salt, and simmer for 15 minutes more, until the yam is tender.' }
+    ],
+    tips: ['Blanch and rinse the ribs well for a clearer-tasting soup.', 'Cook the tomatoes until pulpy before adding the water for a richer, redder broth.', 'A regular pot works if you do not have a clay pot; allow extra time as needed.', 'The source does not specify an amount of water or salt, so add enough water to cover and season to taste.'],
+    references: [{ label: '“Never had tomato pork rib soup? The taste will surprise you” — Lin Shuwei, Xiaohongshu', url: 'https://www.xiaohongshu.com/explore/6a79a1290000000028004fa8' }]
   }
 ];
