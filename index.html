@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6f3eb">
+  <meta name="description" content="A little collection of favourite recipes, saved and made at home.">
+  <title>At the Table — Favourite Recipes</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="wordmark" href="index.html" aria-label="At the Table home"><span class="wordmark-mark">✳</span> at the table</a>
+    <a class="top-link" href="#collection">The collection <span aria-hidden="true">↘</span></a>
+  </header>
+  <main>
+    <section class="hero">
+      <div class="hero-copy">
+        <p class="eyebrow"><span class="eyebrow-line"></span> A personal recipe book</p>
+        <h1>Good things<br>are <em>made</em> at home.</h1>
+        <p class="hero-intro">A growing collection of favourite things to bake, share, and come back to.</p>
+        <a class="hero-cta" href="#collection">Find something lovely <span aria-hidden="true">↓</span></a>
+      </div>
+      <div class="hero-art" aria-hidden="true">
+        <div class="hero-orbit orbit-one"></div><div class="hero-orbit orbit-two"></div>
+        <div class="hero-sun">✳</div><span class="hero-note note-top">made with<br>a little patience</span><span class="hero-note note-bottom">from my kitchen<br>to yours</span>
+      </div>
+      <div class="hero-foot"><span>Recipes worth keeping</span><span>Est. in my kitchen&nbsp; · &nbsp;No. 001—003</span></div>
+    </section>
+
+    <section class="collection section-wrap" id="collection">
+      <div class="section-heading">
+        <div><p class="eyebrow">The recipe box</p><h2>Something to make</h2></div>
+        <span class="recipe-count" id="recipe-count">3 recipes</span>
+      </div>
+      <div class="toolbar">
+        <label class="search-box"><span aria-hidden="true">⌕</span><input id="search" type="search" placeholder="Search recipes…" aria-label="Search recipes"><kbd>/</kbd></label>
+        <div class="filters" role="group" aria-label="Filter recipes">
+          <button class="filter active" data-filter="all">Everything</button><button class="filter" data-filter="cake">Cakes</button>
+        </div>
+      </div>
+      <div class="recipe-grid" id="recipe-grid" aria-live="polite"></div>
+      <p class="empty-state" id="empty-state" hidden>No recipes found. Try another search.</p>
+    </section>
+    <section class="closing-note"><span class="closing-flower" aria-hidden="true">✳</span><p>Keep the recipes you love.<br><em>Make them your own.</em></p><span class="closing-caption">A little more butter never hurt.</span></section>
+  </main>
+  <footer class="site-footer"><a class="wordmark" href="index.html"><span class="wordmark-mark">✳</span> at the table</a><span>Made slowly, shared gladly.</span><a href="README.md">About this collection ↗</a></footer>
+  <script src="recipes.js"></script><script src="app.js"></script>
+</body>
+</html>
